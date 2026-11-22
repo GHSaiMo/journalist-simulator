@@ -1,0 +1,10 @@
+node_modules/
+/dist/
+blender/*.blend
+blender/*.blend1
+blender/renders/
+blender/exports/
+blender/scripts/__pycache__/
+*.pyc
+.DS_Store
+.env
